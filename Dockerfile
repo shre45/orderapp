@@ -1,2 +1,2 @@
 From tomcat
-COPY target/*.war /usr/local/tomcat/webapps/order.war
+COPY target/*.jar /usr/local/tomcat/webapps/order.jar
